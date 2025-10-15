@@ -1,11 +1,5 @@
 <!-- 💫 GitHub Profile by Bisan Fararjeh -->
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BisanFararjeh&label=Profile%20views&color=blueviolet&style=flat-square" alt="BisanFararjeh" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="20px" />
-</p>
-
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/BisanFararjeh?cardType=github&theme=dracula" alt="Bisan's GitHub Stats"/>
@@ -19,14 +13,19 @@
 </p>
 
 ---
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BisanFararjeh&label=Profile%20views&color=blueviolet&style=flat-square" alt="BisanFararjeh" />
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="20px" />
+</p>
 
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/bisan-fararjeh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  <a href="https://linkedin.com/in/bisanfararjeh" target="_blank">
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/dbd86175-9bc1-410d-85c6-1ab5ce7e283e" />
   </a>
   <a href="mailto:bisanfararjeh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/65bbb1eb-2c70-4e93-bb35-054a4689baca" />
   </a>
 </p>
 
